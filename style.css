@@ -1,0 +1,17 @@
+img {
+    display: block;
+    width: 10%;
+    border-radius: 8px;
+    width: 5px;  
+    height: auto;  
+    text-align: center;  
+    padding: 15px;  
+  }
+  .hero-image {
+    background-image: url("background.jpg"); /* The image used */
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: 500px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+  }
