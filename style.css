@@ -7,11 +7,15 @@ img {
     text-align: center;  
     padding: 15px;  
   }
-  .hero-image {
-    background-image: url("background.jpg"); /* The image used */
-    background-color: #cccccc; /* Used if the image is unavailable */
-    height: 500px; /* You must set a specified height */
-    background-position: center; /* Center the image */
-    background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: cover; /* Resize the background image to cover the entire container */
+  #pictures {
+    height: 400px;
+    width: 500px;
   }
+  body {
+    background-color: #C0CFBA;
+  }
+
+  nav {
+    background-color: rgb(16, 17, 10);
+  }
+   
